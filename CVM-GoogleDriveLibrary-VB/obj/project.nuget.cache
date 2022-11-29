@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/FcSdLaIAZ4cxHg31tXcqyr2O9wDJpAAPEBnLwajK7J0MqV8L+/YfqGuUKLMLHmy0M5xL6h0Va7CmCCTptchg==",
+  "dgSpecHash": "SRTmnpMSTB2M3irHio3KUOgqJY49BFeklkEB35ysL8xEDlpgKhtkSKNedzQs6NI8kozlJ/A6t4x1oMHM70t3Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adolf\\source\\repos\\CVM-GoogleDriveLibrary-VB\\CVM-GoogleDriveLibrary-VB\\CVM-GoogleDriveLibrary-VB.vbproj",
+  "projectFilePath": "D:\\Trabajo\\CVM.GDrive\\GoogleDrive\\Proyecto\\CVM-GoogleDriveLibrary-VB.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\adolf\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\adolf\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
